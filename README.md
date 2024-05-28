@@ -1,7 +1,7 @@
 # Signboard Detection using Custom dataset by YOLOv5
 
 This was an undergrad course project for `"Image Processing" (CSE428)`.
-This project is aimed at detecting custom signboards using the YOLOv5 model. Below are the steps and details on how we developed, trained, and used the model for prediction.
+This project is aimed at detecting signboards using the YOLOv5 model. Below are the steps and details on how we developed, trained, and used the model for prediction.
 
 ## Project Overview
 

@@ -1,0 +1,7 @@
+path: /content/drive/MyDrive/Milestone- G5/section1-group5 
+train: /content/drive/MyDrive/Milestone- G5/section1-group5/train
+val: /content/drive/MyDrive/Milestone- G5/section1-group5/val
+test: /content/drive/MyDrive/Milestone- G5/section1-group5/test
+
+nc: 1  
+names: ['Signboard']

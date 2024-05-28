@@ -1,7 +1,0 @@
-path: D:\BracU Docs\CSE428\Project\Milestone 2\section1-group5
-train: D:\BracU Docs\CSE428\Project\Milestone 2\section1-group5\train
-val: D:\BracU Docs\CSE428\Project\Milestone 2\section1-group5\val
-test: D:\BracU Docs\CSE428\Project\Milestone 2\section1-group5\test
-
-nc: 1  
-names: ['Signboard']

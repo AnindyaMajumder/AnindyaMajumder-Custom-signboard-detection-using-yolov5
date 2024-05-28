@@ -13,6 +13,7 @@ This project is aimed at detecting signboards using the YOLOv5 model. Below are 
 
 3. **Model Training and Evaluation**
    - We trained the YOLOv5 model using the prepared datasets.
+   - Check `Model_train.ipynb`
    - After training, we evaluated the model's performance using various metrics.
 
 4. **Prediction on New Images**
